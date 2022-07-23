@@ -1,0 +1,13 @@
+name = "Modern Beta [Fabric]"
+filename = "modern-beta-fabric-4.0.1+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9784b3dad8f3a352b3d60764dcb749dfed5fca3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3884194
+project-id = 410423

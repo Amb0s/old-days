@@ -1,0 +1,13 @@
+name = "Nostalgic Tweaks"
+filename = "NostalgicTweaks-Fabric-1.18.2-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l1rj36Ob/versions/1.0.4+fabric+1.18.2/NostalgicTweaks-Fabric-1.18.2-1.0.4.jar"
+hash-format = "sha1"
+hash = "97142d96aca587ef820601a7dea947ad6fca9979"
+
+[update]
+[update.modrinth]
+mod-id = "l1rj36Ob"
+version = "KAiycgAx"

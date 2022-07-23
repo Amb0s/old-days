@@ -1,0 +1,13 @@
+name = "Hunger Remover"
+filename = "hunger-remover-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Duxl9QUS/versions/1.0.3/hunger-remover-1.0.3.jar"
+hash-format = "sha1"
+hash = "725ccbcb9b1606678e1528aca7cc37c72789a9f6"
+
+[update]
+[update.modrinth]
+mod-id = "Duxl9QUS"
+version = "E5M6X6zd"
