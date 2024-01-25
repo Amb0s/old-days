@@ -20,7 +20,6 @@
 ## Packaging
 
 1. Install [packwiz](https://github.com/packwiz/packwiz) on your system
-2. Run `make pack`
-3. Import one of the generated archives in your coresponding Minecraft launcher
-4. Delete the generated archives with `make clean`
+2. Run `make`
+3. Import one of the generated archives in your Minecraft launcher
 
