@@ -1,0 +1,13 @@
+name = "Old Days"
+author = "Ambos"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d04d1d9935399a9122be7af1370d10b424adf9e1dc7a37e6af76a1a0842442cb"
+
+[versions]
+fabric = "0.15.6"
+minecraft = "1.19.4"
