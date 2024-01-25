@@ -1,0 +1,13 @@
+name = "Better Controls"
+filename = "BetterControls-Fabric-1.19.4+v1.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ANpj0aBF/versions/gmnrHzqp/BetterControls-Fabric-1.19.4%2Bv1.2.4.jar"
+hash-format = "sha1"
+hash = "7f26b66a4945da76f9f09950923c5f56bc14fbd6"
+
+[update]
+[update.modrinth]
+mod-id = "ANpj0aBF"
+version = "gmnrHzqp"

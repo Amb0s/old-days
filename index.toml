@@ -1,0 +1,83 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "9dc1110cf1876d710d4bb69e53662d5bd0e335e33cf52e6dc4c43e0cb83c34d6"
+
+[[files]]
+file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
+hash = "1a49afccb8f4a16273ded96733f7cf5a1545a455b96a64198e4f2189a5625ada"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "312f2e2b9a094718c1c0464957a3f8ca64c68ae7fb9652c3887fbc44cde5bb1d"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "56c08a19b9257a481269b77cd630c7396a4ce471f0a4f434df41a49a0623a95a"
+metafile = true
+
+[[files]]
+file = "mods/better-controls.pw.toml"
+hash = "1320e0361f592b68044db7be9d8a83b491731b964703a2f980e5df42c87cb6b5"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3c6d754707b165bb6ee45198e9050d1f9968aa57a783008a395ac9569d20fdad"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6ac4fa089721e53f99b2c6bf2deee7d5d256391a220403f8ef88c7ac42f46df7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "d97835725d856abc4f120717c0d30cffebbabbb9151427abf295ae4852e1ce5a"
+metafile = true
+
+[[files]]
+file = "mods/modern-beta.pw.toml"
+hash = "1ede048b2e6715bf2d730b357402d8868bc045c917c7cf63c28c7843d363c556"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d18d104455a86bebd3f29deaf3458258674ea053d96e7b8fb5711cfea227fc20"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "3834ac8198c3d902abd33e34dbf41860ec2b6648110ad131601d6f30ace029ae"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "bb3f98696004987f53dd9d45af1ac3ab9c902362205bdac9c10f05a789cb87b6"
+metafile = true
+
+[[files]]
+file = "mods/nostalgic-tweaks.pw.toml"
+hash = "57a7c228bc69f10c640df874185c1a620cfa0cb89568a08b398520e5a09ee770"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "09029298a9cb7050bb22a8b6b296d05785fcff4d4fd0e3d6d5d3931a25acb4f5"
+metafile = true
