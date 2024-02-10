@@ -1,4 +1,6 @@
-# Old Days modpack
+# Old Days
+
+Minecraft 1.19.4 modpack
 
 ## Mods
 
