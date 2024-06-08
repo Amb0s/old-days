@@ -1,0 +1,13 @@
+name = "Moderner Beta"
+filename = "moderner-beta-fabric-6.5+er1.3.1+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/krHwk508/moderner-beta-fabric-6.5%2Ber1.3.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "e1b3d6ddca067d6abff418742bd72907e10279af"
+
+[update]
+[update.modrinth]
+mod-id = "xkrdwmh2"
+version = "krHwk508"

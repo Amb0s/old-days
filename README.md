@@ -1,6 +1,6 @@
 # Old Days
 
-Minecraft 1.19.4 modpack
+Minecraft 1.20.1 modpack
 
 ## Mods
 
@@ -10,12 +10,11 @@ Minecraft 1.19.4 modpack
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Lithium](https://modrinth.com/mod/lithium)
 * [MidnightControls](https://modrinth.com/mod/midnightcontrols)
-* [Modern Beta](https://www.curseforge.com/minecraft/mc-mods/modern-beta)
+* [Moderner Beta](https://modrinth.com/mod/moderner-beta)
 * [Modmenu](https://modrinth.com/mod/modmenu)
 * [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports) (includes [No Telemetry](https://modrinth.com/mod/no-telemetry) features)
 * [Nostalgia Tweaks](https://modrinth.com/mod/nostalgic-tweaks/versions)
-* [Phosphor](https://modrinth.com/mod/phosphor)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)
 
