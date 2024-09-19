@@ -4,6 +4,8 @@ Minecraft 1.20.1 modpack
 
 ## Mods
 
+### Added
+
 * [Architectury](https://modrinth.com/mod/architectury-api)
 * [Better Controls](https://modrinth.com/mod/better-controls)
 * [Cloth Config](https://modrinth.com/mod/cloth-config)
@@ -17,6 +19,10 @@ Minecraft 1.20.1 modpack
 * [Nostalgia Tweaks](https://modrinth.com/mod/nostalgic-tweaks/versions)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)
+
+### Planned
+
+### Considered
 
 ## Packaging
 
